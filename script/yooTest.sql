@@ -1,5 +1,5 @@
 select user(), database();
-
+-- dddddddddddddddddddddd
 select * from cafe; -- 카페
 select * from board; -- 게시판
 select * from users; -- 회원 현황
