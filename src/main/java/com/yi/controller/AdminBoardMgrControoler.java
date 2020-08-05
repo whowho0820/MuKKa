@@ -16,7 +16,7 @@ import com.yi.domain.SearchCriteria;
 import com.yi.service.BoardService;
 import com.yi.service.CafeService;
 // 수정함.
-//두번재수정.ddddd
+//두번재수정.
 @Controller
 @RequestMapping("/admin/boardMgr/*")
 public class AdminBoardMgrControoler {
