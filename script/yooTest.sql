@@ -1,12 +1,13 @@
 select user(), database();
 -- dddddddddddddddddddddd
+-- 
 select * from cafe; -- 카페
 select * from board; -- 게시판
 select * from users; -- 회원 현황
 select * from admin; -- 관리자
 select * from theme; -- 테마 분류
 select * from zone; -- 위치 분류
-select * from reply; -- 댓글 테이블
+select * from reply; -- 댓글 테이블 
 select * from boardkinds; -- 게시판 분류
 select * from menukinds; -- 메뉴 분류
 select * from menu; -- 메뉴
